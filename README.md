@@ -3,6 +3,7 @@
 ## ✨ 프로젝트 개요
 
 ### 📅 사용 데이터: **IEEE-CIS Fraud Detection**
+이 프로젝트에서 사용된 데이터는 [IEEE Fraud Detection 데이터셋](https://www.kaggle.com/c/ieee-fraud-detection/data)에서 제공됩니다.
 
 **목표**: 금융 거래에서 사기 여부를 예측하는 머신러닝 모델 개발 (Binary Classification)
 
